@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tangerinedream13
 - 👀 I’m interested in Software Engineering, Pickleball, Formula1 Racing
-- 🌱 I’m currently learning SQL and C#
+- 🌱 I’m currently learning SQL and C# while interning as a Software Engineer at System Logistics in Asheville, NC
 - 💞️ I’m looking to collaborate on ideas for Senior capstone projects
 - 📫 How to reach me ... @discord Tangerinedream13
 - 😄 Pronouns: She/Her/Hers
