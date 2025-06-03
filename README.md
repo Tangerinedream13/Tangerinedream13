@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tangerinedream13
+- 👋 Hi, I’m Maria Haddon
 - 👀 I’m interested in Software Engineering, Pickleball, Formula1 Racing. University of North Carolina-Asheville B.S. Computer Science May 2026.
 - 🌱 I’m currently learning SQL and C# while interning as a Software Engineer at System Logistics in Asheville, NC. I’m looking for ideas for Senior capstone projects
 - 📫 How to reach me ... @discord Tangerinedream13
