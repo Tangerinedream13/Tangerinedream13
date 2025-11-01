@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Maria Haddon
-- 👀 I’m interested in Software Engineering, Pickleball, Formula1 Racing. Planning to graduate with a B.S. in Computer Science from the University of North Carolina-Asheville in May 2026.
+- 👀 I’m interested in Software Engineering, Pickleball, Formula1 Racing, & Swimming. Planning to graduate with a B.S. in Computer Science from the University of North Carolina-Asheville in May 2026.
 - 🌱 I’m currently learning SQL and C# while interning as a Software Engineer at System Logistics in Asheville, NC.
 - 📫 How to reach me ... @discord Tangerinedream13
 - 😄 Pronouns: She/Her/Hers
