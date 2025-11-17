@@ -4,6 +4,6 @@
 - 💻 Software Engineering Intern - System Logistics (Asheville). Built and supported software using C#, .NET, SQL, and backend dev workflows
 - 📫 Reach me on Discord: Tangerinedream13
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I'm an Occupational Therapist and Inpatient Rehab Director making a career pivot into Tech. I currently work as a Liaison (Post Acute Clinical Specialist) for an 80-bed inpatient rehabilitation hospital in Asheville.
+- ⚡ Fun fact: I'm an Occupational Therapist and Inpatient Rehab Director making a career pivot into Tech. I currently work as a Liaison (Post Acute Clinical Specialist) for an 80-bed acute rehabilitation hospital in Asheville.
 - 🎓 App State: B.S. Exercise Science • Minors: Bio/Psych • Grad Cert: Gerontology
 - 🎓 Lenoir-Rhyne: M.S. Occupational Therapy
