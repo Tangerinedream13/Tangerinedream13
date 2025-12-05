@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Maria Haddon
 - Born in 🇨🇳, built with 🇯🇵 calm energy + 🇮🇪 luck ✨
 - 👀 I’m interested in Software Engineering, AI, Pickleball, Formula1 Racing, & Swimming. Planning to graduate with a B.S. in Computer Science from the University of North Carolina-Asheville in May 2026.
-- 💻 Software Engineering Intern - System Logistics (Asheville). Built and supported software using C#, .NET, SQL, and backend dev workflows
+- 💻 Software Engineering Intern - System Logistics (Asheville). Built and supported software using C#, .NET, SQL, and backend dev workflows. Worked on software projects supporting Coca-Cola, Pepsi, and large-scale beverage distribution centers.
 - 📫 Reach me on Discord: Tangerinedream13
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I'm an Occupational Therapist and Inpatient Rehab Director making a career pivot into Tech. I currently work as a Liaison (Post Acute Clinical Specialist) for an 80-bed acute rehabilitation hospital in Asheville.
