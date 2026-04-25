@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Maria Haddon
 - Born in 🇨🇳, built with 🇯🇵 calm energy + 🇮🇪 luck ✨
-- 👀 I’m interested in Cybersecurity, Software Engineering, AI, Pickleball, Formula1 Racing, & Swimming. Planning to graduate with a B.S. in Computer Science from the University of North Carolina-Asheville in May 2026.
+- 👀 I’m interested in IT Project Management, Cybersecurity, Dev/Ops, AI, Pickleball, Formula1 Racing, & Swimming. Planning to graduate with a B.S. in Computer Science from the University of North Carolina-Asheville in May 2026.
 - 💻 Software Engineering Intern - System Logistics (Asheville). Built and supported software using C#, .NET, SQL, and backend dev workflows. Worked on software projects supporting Coca-Cola, Pepsi, and large-scale beverage distribution centers.
 - 📫 Reach me on LinkedIn https://www.linkedin.com/in/mariabhaddon/ or Discord: TangerineDream13
 - 😄 Pronouns: She/Her
