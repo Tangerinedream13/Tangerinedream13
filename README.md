@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Maria Haddon
 - Born in 🇨🇳, built with 🇯🇵 calm energy + 🇮🇪 luck ✨
 - 👀 I’m interested in IT Project Management, Cybersecurity, Dev/Ops, AI, Pickleball, Formula1 Racing, Pilates, Yoga, & Swimming. B.S. in Computer Science from the University of North Carolina-Asheville
-- 💻 Software Engineering Intern - System Logistics (Asheville). Built and supported software using C#, .NET, SQL, and backend dev workflows. Worked on software projects supporting Coca-Cola, Pepsi, and large-scale beverage distribution centers.
+- 💻 Software DevOps Project Manager at System Logistics
 - 📫 Reach me on LinkedIn https://www.linkedin.com/in/mariabhaddon/ or Discord: TangerineDream13
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I'm an Occupational Therapist and Inpatient Rehab Director making a career pivot into Tech. I currently work as a Liaison (Post Acute Clinical Specialist) for an 80-bed acute rehabilitation hospital in Asheville.
