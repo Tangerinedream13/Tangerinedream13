@@ -1,9 +1,25 @@
-- 👋 Hi, I’m Maria Haddon
-- Born in 🇨🇳, built with 🇯🇵 calm energy + 🇮🇪 luck ✨
-- 👀 I’m interested in IT Project Management, Cybersecurity, Dev/Ops, AI, Pickleball, Formula1 Racing, Pilates, Yoga, & Swimming. B.S. in Computer Science from the University of North Carolina-Asheville
-- 💻 Software DevOps Project Manager at System Logistics
-- 📫 Reach me on LinkedIn https://www.linkedin.com/in/mariabhaddon/ or Discord: TangerineDream13
+# 👋 Hi, I’m Maria Haddon
+
+- 🎓 **B.S. in Computer Science** from the University of North Carolina Asheville
+- 💻 Interested in IT Project Management, Cybersecurity, DevOps, AI, and building useful software
+- 🏓 Also into pickleball, Formula 1, Pilates, yoga, and swimming
+- 🌏 Born in 🇨🇳, built with 🇯🇵 calm energy + 🇮🇪 luck ✨
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I'm an Occupational Therapist and Inpatient Rehab Director making a career pivot into Tech. I currently work as a Liaison (Post Acute Clinical Specialist) for an 80-bed acute rehabilitation hospital in Asheville.
-- 🎓 App State: B.S. Exercise Science • Minors: Bio & Psych • Grad Cert: Gerontology
-- 🎓 Lenoir-Rhyne: M.S. Occupational Therapy
+
+Before transitioning into tech, I worked as an **Occupational Therapist**, **Inpatient Rehab Director**, and **Post-Acute Clinical Specialist** for an 80-bed acute rehabilitation hospital in Asheville.
+
+- 🎓 **University of North Carolina Asheville**  
+  B.S. Computer Science
+
+- 🎓 **Appalachian State University**  
+  B.S. Exercise Science  
+  Minors: Biology & Psychology  
+  Graduate Certificate: Gerontology
+
+- 🎓 **Lenoir-Rhyne University**  
+  M.S. Occupational Therapy
+
+## Connect With Me
+
+- LinkedIn: [Maria Haddon](https://www.linkedin.com/in/mariabhaddon/)
+- Discord: `TangerineDream13`
