@@ -51,11 +51,4 @@ That order matters. I came to project management with real operational leadershi
 
 The user is still what I care about most. Every project on this page started with a real group of people and a task that was harder than it needed to be.
 
-Education
-
-B.S. Computer Science — University of North Carolina Asheville
-M.S. Occupational Therapy — Lenoir-Rhyne University
-B.S. Exercise Science (Minors: Biology, Psychology; Grad Certificate: Gerontology) — Appalachian State University
-Connect
-
 Off the clock: pickleball, Formula 1, Pilates, yoga, and swimming. Born in 🇨🇳, built with 🇯🇵 calm energy + 🇮🇪 luck ✨ · She/Her
