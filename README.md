@@ -57,7 +57,5 @@ B.S. Computer Science — University of North Carolina Asheville
 M.S. Occupational Therapy — Lenoir-Rhyne University
 B.S. Exercise Science (Minors: Biology, Psychology; Grad Certificate: Gerontology) — Appalachian State University
 Connect
-💼 LinkedIn
-💬 Discord: TangerineDream13
 
-<sub>Off the clock: pickleball, Formula 1, Pilates, yoga, and swimming. Born in 🇨🇳, built with 🇯🇵 calm energy + 🇮🇪 luck ✨ · She/Her</sub>
+Off the clock: pickleball, Formula 1, Pilates, yoga, and swimming. Born in 🇨🇳, built with 🇯🇵 calm energy + 🇮🇪 luck ✨ · She/Her
