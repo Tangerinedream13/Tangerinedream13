@@ -41,7 +41,7 @@ Coursework and implementations in cryptography, secure coding practices, and the
 
 Tech
 
-Languages — JavaScript · Go · Java · C · Mojo<br> Frontend — React · HTML/CSS<br> Backend & Infra — Go · Node.js · Docker · REST APIs<br> Delivery — DevOps · CI/CD · Agile delivery · Cross-functional coordination · Stakeholder management<br> Focus areas — Cybersecurity · AI Security · Software Project Management
+Languages — JavaScript · Go · Java · C · Mojo<br> Frontend — React · HTML/CSS<br> Backend & Infra — Go · Node.js · Docker · REST APIs<br> Delivery — DevOps · CI/CD · Agile delivery · Cross-functional coordination · Stakeholder management<br>
 
 Background
 
