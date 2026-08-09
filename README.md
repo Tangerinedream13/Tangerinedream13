@@ -1,24 +1,7 @@
-# 👋 Hi, I’m Maria Haddon
+Turning creative ideas into real, usable software
 
-- 💻 Interested in Software Project Management, Cybersecurity, DevOps, AI, and building useful software
-- 🏓 Also into pickleball, Formula 1, Pilates, yoga, and swimming
-- 🌏 Born in 🇨🇳, built with 🇯🇵 calm energy + 🇮🇪 luck ✨
-- 😄 Pronouns: She/Her
+Technical project manager. I run DevOps delivery at System Logistics, where we automate warehouses for Fortune 500 companies. My role there is delivery rather than development — but a CS degree and the projects below are why I can sit with an engineering team and follow where the conversation goes.
 
-Before transitioning into tech, I worked as an **Occupational Therapist**, **Inpatient Rehab Director**, and **Post-Acute Clinical Specialist** 
+Everything on this profile is personal work, built independently of my day job.
 
-- 🎓 **University of North Carolina Asheville**  
-  B.S. Computer Science
-
-- 🎓 **Appalachian State University**  
-  B.S. Exercise Science  
-  Minors: Biology & Psychology  
-  Graduate Certificate: Gerontology
-
-- 🎓 **Lenoir-Rhyne University**  
-  M.S. Occupational Therapy
-
-## Connect With Me
-
-- LinkedIn: [Maria Haddon](https://www.linkedin.com/in/mariabhaddon/)
-- Discord: `TangerineDream13`
+⚙️ DevOps Project Manager @ System Logistics<br> 🤝 Head of Partnerships & Equity Partner @ LeagueLINQ<br> 📍 Asheville, NC · 🎓 B.S. Computer Science, UNC Asheville · 🔗 LinkedIn
